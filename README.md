@@ -1,5 +1,8 @@
 # Data-Science-Job-Market-Analysis - 2020
 
+## Blog Link:
+https://ashishgore234.wixsite.com/ds-jobs-analysis
+
 ## About:
 This analysis is done by Extracting 1000 recent Data scientist jobs from the job portal(naukri.com) using scraping.
 Objective is to analyze the current job market trends for Data science.
